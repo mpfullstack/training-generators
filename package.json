@@ -1,0 +1,15 @@
+{
+  "name": "training-generators",
+  "version": "1.0.0",
+  "description": "Some exercises to practice JS function generators",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jest/bin/jest.js **"
+  },
+  "author": "Marc Perez",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "7.8.4",
+    "jest": "25.1.0"
+  }
+}
